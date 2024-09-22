@@ -1,0 +1,10 @@
+# ninja log v6
+7	486	7487135453277229	CMakeFiles/nway_external_sort.dir/FileElementComparator.cpp.obj	be41dea73bfddb82
+23	488	7487135453436695	CMakeFiles/nway_external_sort.dir/utils.cpp.obj	cdc9d97798464bfd
+13	491	7487135453337035	CMakeFiles/nway_external_sort.dir/Stream.cpp.obj	699e85d429553019
+4	493	7487135453237464	CMakeFiles/nway_external_sort.dir/Error.cpp.obj	1164fe4c0d622ba8
+18	494	7487135453376901	CMakeFiles/nway_external_sort.dir/StreamException.cpp.obj	e67a7c04d2f41763
+9	697	7487135453297166	CMakeFiles/nway_external_sort.dir/Random.cpp.obj	b1fe5ba6364f762c
+5	1012	7487135453257305	CMakeFiles/nway_external_sort.dir/ExternalSort.cpp.obj	58f3142cc5d52a32
+1	1655	7487135453207473	CMakeFiles/nway_external_sort.dir/main.cpp.obj	db4ef7e8caab98ae
+1656	1876	7487135469762102	nway_external_sort.exe	f8a4220e99bf68f9

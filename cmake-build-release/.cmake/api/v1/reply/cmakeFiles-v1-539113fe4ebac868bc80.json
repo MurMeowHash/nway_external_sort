@@ -16,7 +16,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug/CMakeFiles/3.29.6/CMakeSystem.cmake"
+			"path" : "cmake-build-release/CMakeFiles/3.29.6/CMakeSystem.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -290,7 +290,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug/CMakeFiles/3.29.6/CMakeCCompiler.cmake"
+			"path" : "cmake-build-release/CMakeFiles/3.29.6/CMakeCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -544,7 +544,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug/CMakeFiles/3.29.6/CMakeCXXCompiler.cmake"
+			"path" : "cmake-build-release/CMakeFiles/3.29.6/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -618,7 +618,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug/CMakeFiles/3.29.6/CMakeRCCompiler.cmake"
+			"path" : "cmake-build-release/CMakeFiles/3.29.6/CMakeRCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -702,7 +702,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug/CMakeFiles/3.29.6/CMakeCCompiler.cmake"
+			"path" : "cmake-build-release/CMakeFiles/3.29.6/CMakeCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -806,7 +806,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug/CMakeFiles/3.29.6/CMakeCXXCompiler.cmake"
+			"path" : "cmake-build-release/CMakeFiles/3.29.6/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -817,7 +817,7 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/KPI/Algorithms_Course_2/Laboratory1/nway_external_sort/cmake-build-debug",
+		"build" : "D:/KPI/Algorithms_Course_2/Laboratory1/nway_external_sort/cmake-build-release",
 		"source" : "D:/KPI/Algorithms_Course_2/Laboratory1/nway_external_sort"
 	},
 	"version" : 

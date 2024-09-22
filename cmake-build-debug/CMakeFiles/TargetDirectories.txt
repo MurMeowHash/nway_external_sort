@@ -1,0 +1,3 @@
+D:/KPI/Algorithms_Course_2/Laboratory1/nway_external_sort/cmake-build-debug/CMakeFiles/nway_external_sort.dir
+D:/KPI/Algorithms_Course_2/Laboratory1/nway_external_sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/KPI/Algorithms_Course_2/Laboratory1/nway_external_sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
